@@ -4,7 +4,7 @@
 
 ---
 ## What is this project about? </br>
-**PIPEX** is a command line program written in **C** that aims to replicate redirections and pipes in **Bash**.</br>
+**PIPEX** is a command line program written in **C** that aims to replicate redirections and pipes from **Bash**.</br>
 
 ---
 ## Biggest Challenges 💪
